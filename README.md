@@ -1,8 +1,8 @@
 # Python-Beat-Sequencer
-Augustana College 
-CSC 201: Introduction to Computer Science 
-Project
-Primo Moreno
+Augustana College, 
+CSC 201: Introduction to Computer Science, 
+Project,
+Author: Primo Moreno
 
 This project was assigned by my professor Dr. Peterson.
 He came up with the idea of a beat sequencer, provided the WAV files and the sounds file, the doc string at the beginning, and gave us the code for isPointOnButton().
